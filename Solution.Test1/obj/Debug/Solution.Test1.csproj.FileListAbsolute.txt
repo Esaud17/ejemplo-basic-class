@@ -1,0 +1,13 @@
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\bin\Debug\Solution.Test1.exe.config
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\bin\Debug\Solution.Test1.exe
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\bin\Debug\Solution.Test1.pdb
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\obj\Debug\Solution.Test1.csproj.AssemblyReference.cache
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\obj\Debug\Solution.Test1.Form1.resources
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\obj\Debug\Solution.Test1.Properties.Resources.resources
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\obj\Debug\Solution.Test1.csproj.GenerateResource.cache
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\obj\Debug\Solution.Test1.csproj.CoreCompileInputs.cache
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\obj\Debug\Solution.Test1.exe
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\obj\Debug\Solution.Test1.pdb
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\bin\Debug\Solution.Library.dll
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\bin\Debug\Solution.Library.pdb
+D:\Projectos Softwares\Visual Studio\Solutions.Algorithm.Training\Solution.Test1\obj\Debug\Solution.Test1.csproj.CopyComplete
